@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: de1777002fcb1fb42af25f0806faee37
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shadoww_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5569.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb19ed0a743614c94d6059dbac46fa
+      internalID: -1944778185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5569.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449a5e01516f04468eddeacf00ae1f9
+      internalID: 1119918714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_2
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 5569.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132992f686e4a0249b3439d05e102856
+      internalID: -260332435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 5569.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7557a3e3f0ca249bc1d784da1f6cf7
+      internalID: 851077304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_4
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 5569.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8906eb23e58dcb74caea4099694b3a8c
+      internalID: 1747828876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5105.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc6cef6e3cdf14ea636f24e7bd9e44
+      internalID: -38077122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5105.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b07b9228876b34f8cf72c60073f674
+      internalID: -1931625210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 5105.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216233bd352d6a0418ebceea7e4baef5
+      internalID: -1432094989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_8
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 5105.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2db8469b8b2ee47b36377a7bbd6053
+      internalID: 84365069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_9
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 5105.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174bb4a9e40320479eae8a50745028e
+      internalID: -1607805977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4641.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e701b2c10e034fa3fb806dcfc175c
+      internalID: -1163915028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4641.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e7dd1f379ed9449bbdd34a2ea712b
+      internalID: -2022059549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_12
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 4641.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625dcea0deb6fe14e8726662aa52c53e
+      internalID: -589692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_13
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 4641.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787045452ab2a15479444afe5f5f07b9
+      internalID: -457593601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_14
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 4641.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1e6cee3af5be4c9b1da6eda189fff
+      internalID: 1006366237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4177.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b34b11666a3c4eaee5dd367b9b917
+      internalID: -1599021552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 4177.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e87b3d150a52459522094d5402c38
+      internalID: 879563771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 4177.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5cdb07c38200d46ac588702c341b3d
+      internalID: -280947567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_18
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 4177.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f6fef5566bd374c9738e42cf27527f
+      internalID: 1072263323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_19
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 4177.846
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afd63524df4864580ba58095568a45
+      internalID: 1393770660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3713.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b5a8e387f4ea44beb3b996910c170
+      internalID: 1834010934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3713.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622a50d3aea2a34b84c797fa48d406c
+      internalID: 461761349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_22
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3713.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f51e0b732d674eaa411c512dc1be6
+      internalID: 263998600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_23
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3713.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6802c1896d5f44b1a43157c1936ce
+      internalID: -1007739803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_24
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3713.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28d1809c9524b5449dff345fa6de38c
+      internalID: -1639602651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3249.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885d1a430ca0c146bdacf951066b1cc
+      internalID: 1275005097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3249.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2049e47d2396b40b713d4c8c68ab7f
+      internalID: -100504028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_27
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3249.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb9f73697e21e4d9daa8d596b3e62b
+      internalID: -1499386236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_28
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3249.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c304d6c3a025ff44a06c4c5bab2e795
+      internalID: 306944743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2785.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4985df971c5a704db20d8d8c1da3e51
+      internalID: 414454649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_30
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2785.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b82b066b33d84f87dada66e74f9bb
+      internalID: 1870992980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_31
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2785.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d197f1f6219843bd5a01dd97cd397
+      internalID: 483586307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_32
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2785.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bebda750815ca44a829f80aac33213
+      internalID: 1870586252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2321.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c302643257534ea62238be3d5af80
+      internalID: 1547676905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_34
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2321.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b86b479a8472469754802b7371277
+      internalID: -1181881718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_35
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2321.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e751b2884f674296d6f701cb86c93
+      internalID: 799959971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_36
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2321.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5893f7af239bb41af6147ef0c03219
+      internalID: -419271869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1857.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea60ff921dc6f348a16f99b4d2a9954
+      internalID: -115476058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_38
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1857.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9f44d20beef64b846129dcb02df5a
+      internalID: 283122129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_39
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1857.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337e1da95516df469e4523b23ad5f9e
+      internalID: 1036657120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_40
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1393.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396571f1e6d0420458dbd631e1d06345
+      internalID: -1943994146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_41
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1393.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b03da8e84e494294385150c501be7
+      internalID: 905697029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_42
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 929.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69923fccd7630f4cb414b628db65e96
+      internalID: 353660663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_43
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 929.8462
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06132095c2553f44bde68a337f0317c
+      internalID: 1375699163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_44
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 465.84616
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3dc6ba5e919a941b4dfda7efd67069
+      internalID: -1930255218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_45
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 465.84616
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b582e73b6e676e488c5215d33254b4d
+      internalID: 1805292120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadoww_46
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1.8461609
+        width: 465
+        height: 464.15384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c776ffc62e064fbb4c1a23f93f865
+      internalID: 1439918194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shadoww_2: -260332435
+      shadoww_21: 461761349
+      shadoww_18: 1072263323
+      shadoww_30: 1870992980
+      shadoww_20: 1834010934
+      shadoww_42: 353660663
+      shadoww_32: 1870586252
+      shadoww_33: 1547676905
+      shadoww_8: 84365069
+      shadoww_31: 483586307
+      shadoww_19: 1393770660
+      shadoww_22: 263998600
+      shadoww_16: 879563771
+      shadoww_38: 283122129
+      shadoww_9: -1607805977
+      shadoww_35: 799959971
+      shadoww_10: -1163915028
+      shadoww_13: -457593601
+      shadoww_34: -1181881718
+      shadoww_1: 1119918714
+      shadoww_12: -589692097
+      shadoww_26: -100504028
+      shadoww_40: -1943994146
+      shadoww_45: 1805292120
+      shadoww_15: -1599021552
+      shadoww_37: -115476058
+      shadoww_23: -1007739803
+      shadoww_41: 905697029
+      shadoww_43: 1375699163
+      shadoww_3: 851077304
+      shadoww_4: 1747828876
+      shadoww_14: 1006366237
+      shadoww_46: 1439918194
+      shadoww_6: -1931625210
+      shadoww_11: -2022059549
+      shadoww_0: -1944778185
+      shadoww_7: -1432094989
+      shadoww_27: -1499386236
+      shadoww_29: 414454649
+      shadoww_25: 1275005097
+      shadoww_17: -280947567
+      shadoww_39: 1036657120
+      shadoww_28: 306944743
+      shadoww_5: -38077122
+      shadoww_24: -1639602651
+      shadoww_36: -419271869
+      shadoww_44: -1930255218
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
