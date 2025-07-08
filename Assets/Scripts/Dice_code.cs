@@ -114,6 +114,9 @@ public class Dice_code : MonoBehaviour
 
     public void FixOn(GameObject to_fix)
     {
+        // Play sound effect for fixing on
+        AudioManager.instance.PlaySFX("SetDice");
+
         to_fix_on = to_fix;
         set = true;
     }
@@ -171,6 +174,9 @@ public class Dice_code : MonoBehaviour
 
     public void Hit(int damage)
     {
+        // Playing sound effect for dodging enemy attack
+        AudioManager.instance.PlaySFX("Dodge");
+
         if (IsGuard(this.gameObject))           // Maybe It's me or maybe sometimes it doesn't take it away from the array of guard dice
         {
             Battle_manager.characters[0].GetComponent<Samurai_animation>().SamuraiAnimation("block");
@@ -195,6 +201,7 @@ public class Dice_code : MonoBehaviour
 
     public void MakeMeGhost()
     {
+        this.gameObject.SetActive(false);
         manager.GetComponent<Dice_manager>().ghost_dice.Add(this.gameObject);
         
         ghost = true;
@@ -204,6 +211,9 @@ public class Dice_code : MonoBehaviour
 
     public void Death()
     {
+        // Playing soundeffect for getting hit
+        AudioManager.instance.PlaySFX("HeroHit");
+
         hit_part = Instantiate(manager.GetComponent<Dice_manager>().hit_particles, transform);
         manager.GetComponent<Dice_manager>().damage_number.GetComponent<damage_number>().Show(this.gameObject, -100);
 
@@ -301,6 +311,9 @@ public class Dice_code : MonoBehaviour
 
     public void ReturnBack()
     {
+        // Playing soundeffect for die getting back
+        AudioManager.instance.PlaySFX("DiceBack");
+
         if (Battle_manager.target_lock != null && (this.gameObject == Battle_manager.skill_die || this.gameObject == move_drop.GetComponent<Move>().die_used_to_move)) Battle_manager.target_lock.GetComponent<Enemy_atributes>().Glowing.SetActive(false);
 
         if (IsGuard(this.gameObject))  // <<<< I did this check here as a way around a bug. 

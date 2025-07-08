@@ -27,7 +27,9 @@ public class Move : MonoBehaviour
 
     void PrimarMove()
     {
-        
+        // Playing sound effect for moving
+        AudioManager.instance.PlaySFX("HeroMove");
+
         //glowing.SetActive(false);
         movement_distance = die_used_to_move.GetComponent<Dice_code>().value;
         if (die_used_to_move.GetComponent<Dice_code>().element == "magic") movement_distance -= 2;

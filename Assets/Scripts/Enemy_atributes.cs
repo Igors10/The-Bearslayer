@@ -117,6 +117,9 @@ public class Enemy_atributes : MonoBehaviour
 
     public void Roll()
     {
+        // Play sound effect for rerolling the dice
+        AudioManager.instance.PlaySFX("Reroll");
+
         //int a = 0;
         while (used_dice.Count > 0)
         {

@@ -115,6 +115,9 @@ public class Dice_manager : MonoBehaviour
 
     public void RollDice()
     {
+        // Playing sound effect for rerolling
+        AudioManager.instance.PlaySFX("Reroll");
+
         // removing guard dice
         //guard_drop.GetComponent<Guard>().guard_dice_count = 0;
         

@@ -97,6 +97,9 @@ public class MiniDice_code : MonoBehaviour
 
     public void Hit(int damage_dealt)
     {
+        // Soundeffect for dodging
+        AudioManager.instance.PlaySFX("Dodge");
+
         if (value > 1)
         {
             value -= damage_dealt;
@@ -113,6 +116,9 @@ public class MiniDice_code : MonoBehaviour
 
     public void SelfDestruction()
 {
+        // Soundeffect for being hit
+        AudioManager.instance.PlaySFX("EnemyHit");
+
         Battle_manager.Level.GetComponent<Animation_manager>().FlashEffect(owner.GetComponent<Enemy_atributes>().Sprite, "red", 10);
 
         GameObject decoy = Instantiate(dying_die, transform.position, Quaternion.identity);

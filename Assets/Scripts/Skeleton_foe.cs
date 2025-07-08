@@ -202,6 +202,9 @@ public class Skeleton_foe : MonoBehaviour
     {
         // Animation
         GetComponent<Enemy_animation>().NewAnimation("move");
+
+        // Playing sound effect for moving the enemy
+        AudioManager.instance.PlaySFX("EnemyMove");
         
         // ___________
 
